@@ -1,3 +1,3 @@
-print('Я домашка'p
+øprint('Я домашка'p
 wewg
 grwg
